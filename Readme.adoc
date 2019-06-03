@@ -1,0 +1,11 @@
+= OutputFrom-TemplateText(oftt)
+
+これはテンプレートテキストからファイルを生成するジェネレータです。
+PowerShellモジュールとして配布しています。
+
+
+== サンプル
+
+詳しくはsampleのReadme.mdを参照してください。
+
+

@@ -1,0 +1,25 @@
+Subject: サンプルメール
+To: <ToAddress>
+Cc: <CcAddress>
+Bcc: <BccAddress>
+Content-Type: text/plain; charset="ISO-2022-JP"
+Content-Transfer-Encoding: 7bit
+
+<CompanyName>
+<CompanyTantosya> 様
+
+<MyName>です。
+いつも<ServiceName>をご利用いただき有難うございます。
+
+誠に勝手ながら、<ServiceName>は<EoLDate>を持ちまして、
+サービスを終了致します。
+
+これまでご愛顧頂き、誠にありがとうございました。
+
+--
+****************
+<ServiceName> 運営
+<MyName>
+****************
+
+.

@@ -1,11 +1,11 @@
 = OutputFrom-TemplateText(oftt)
 
-これはテンプレートテキストからファイルを生成するジェネレータです。
-PowerShellモジュールとして配布しています。
+これはテンプレートテキストからファイルを生成するジェネレータです。 +
+PowerShellモジュールとして配布しています。 +
 
 
 == サンプル
 
-詳しくはsampleのReadme.mdを参照してください。
-
+メールファイルを生成したりできます。 +
+詳しくは link:./sample/Readme.md[sampleのReadme.md]を参照してください。
 

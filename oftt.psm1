@@ -1,4 +1,4 @@
-﻿$ProfileDir = $profile -replace "WindowsPowerShell\\.*$", "WindowsPowerShell"
+﻿$ProfileDir = $MyInvocation.MyCommand.Path -replace "WindowsPowerShell\\.*$", "WindowsPowerShell"
 $ModuleDir = "$ProfileDir\Modules\oftt"
 function OutputFrom-TemplateText {
     <#
